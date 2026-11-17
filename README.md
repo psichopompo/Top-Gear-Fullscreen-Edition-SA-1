@@ -16,7 +16,7 @@ I have modified the single-player mode to display in full-screen, added SA-1 com
 - Graphics loaded by the game during pit stops are no longer lost.
 - The black flicker at the top of the screen during pit stops has been removed.
 
-[![TopGear - Fullscreen Edition v1.2 (SA-1)](https://img.youtube.com/vi/7u87DdSbDR0/hqdefault.jpg)](https://youtu.be/7u87DdSbDR0)
+[![TopGear - Fullscreen Edition v1.2 (SA-1)](https://img.youtube.com/vi/7u87DdSbDR0/sddefault.jpg)](https://youtu.be/7u87DdSbDR0)
 
 ## What's new in v1.1
 
