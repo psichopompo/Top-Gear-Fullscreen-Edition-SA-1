@@ -16,13 +16,13 @@ He modificado el modo de un jugador para que se vea a pantalla completa, he aña
 - Ya no se pierden los gráficos que el juego carga durante las paradas en boxes.
 - Se ha eliminado el parpadeo negro en la parte superior de la pantalla durante las paradas en boxes.
 
+[![TopGear - Fullscreen Edition v1.2 (SA-1)](https://img.youtube.com/vi/7u87DdSbDR0/hqdefault.jpg)](https://youtu.be/7u87DdSbDR0)
+
 ## Novedades de la v1.1
 
 - Corregido el consumo de combustible.
 - Corregida la corrupción gráfica en las paradas en boxes del lado derecho de la carretera.
 - Corregida la pantalla negra al empezar una carrera en Snes9x 1.63 standalone.
-
-[![TopGear - Fullscreen Edition v1.2 (SA-1)](https://img.youtube.com/vi/7u87DdSbDR0/hqdefault.jpg)](https://youtu.be/7u87DdSbDR0)
 
 ## Cambios
 
